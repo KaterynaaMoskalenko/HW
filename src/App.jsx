@@ -32,7 +32,6 @@ function App() {
       }])
     
       setTaskTitle('')
-      // console.log('enter');
     }
   }
   // Незавершені завдання
